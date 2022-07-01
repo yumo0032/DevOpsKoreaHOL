@@ -6,17 +6,17 @@
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://yumo0032.github.io/DevOpsKoreaHOL/hol\hol.html</loc>
-		<lastmod>2022-07-01</lastmod>
-		<changefreq>daily</changefreq>
-	</url>
-	<url>
 		<loc>http://yumo0032.github.io/DevOpsKoreaHOL/credit.html</loc>
 		<lastmod>2022-07-01</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>http://yumo0032.github.io/DevOpsKoreaHOL/index.html</loc>
+		<lastmod>2022-07-01</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://yumo0032.github.io/DevOpsKoreaHOL/hol\hol.html</loc>
 		<lastmod>2022-07-01</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
